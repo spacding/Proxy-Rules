@@ -1,5 +1,4 @@
-# QuantumultX
-Personal configuration for QuantumultX
+# Quantumult X 自用配置
 
 ### 本配置截图（部分）👇
 <img src="images/QuantumultX-Policy.JPEG" width="400"><br/>
